@@ -10,6 +10,8 @@ book:
     - intro.qmd
     - pnb.qmd
     - pronabio-conabio.qmd
+    - portaria-MMA-43.qmd
+    - portaria-MMA-443.qmd
     - revisao-das-listas.qmd
     - references.qmd
 
