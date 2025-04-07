@@ -1,0 +1,30 @@
+# Política Nacional da Biodiversidade
+
+A Política Nacional da Biodiversidade (PNB) é instituída pelo Decreto Federal nº 4.339/02. Segundo este Decreto, a PNB abrange eixos temáticos (Componentes). No que diz respeito a espécies ameaçadas de extinção, os Componentes 1 e 2 possuem objetivos
+específicos explicitamente relacionados.
+
+## Decreto Federal nº 4.339/2002
+
+Componente 1 - Conhecimento da Biodiversidade:
+
+::: {.callout-note icon=false}
+
+## PNB
+
+10.1.4. Elaborar e manter atualizadas <b>listas</b> de espécies endêmicas e <b>ameaçadas</b> no país, de modo articulado com as listas estaduais e regionais. 
+
+10.1.5. Promover pesquisas para identificar as características ecológicas, a diversidade genética e a viabilidade populacional das espécies de plantas, animais, fungos e microrganismos endêmicas e <b>ameaçadas</b> no Brasil, a fim de subsidiar ações de recuperação, regeneração, utilização sustentável e conservação destas.
+
+:::
+
+Componente 2 - Conservação da Biodiversidade:
+
+::: {.callout-note icon=false}
+
+## PNB
+
+11.3.1. Criar, identificar e estabelecer iniciativas, programas e projetos de conservação e recuperação de espécies ameaçadas, endêmicas ou insuficientemente conhecidas.
+
+11.3.6. Implementar ações para maior proteção de espécies ameaçadas dentro e fora de unidades de conservação.
+
+:::

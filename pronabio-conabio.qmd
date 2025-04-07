@@ -1,0 +1,57 @@
+# PRONABIO e CONABIO
+
+## Decreto Federal nº 4.703/2003
+
+O Decreto nº 4.703/03 estabelece o <b>Programa Nacional da Diversidade Biológica</b> (PRONABIO) e a <b>Comissão Nacional da Biodiversidade</b> (CONABIO) (art. 1º).
+
+## PRONABIO
+
+### Histórico
+
+::: {.callout-note}
+
+## O PRONABIO foi criado em 1994
+
+Visando a implementação da Convenção da Diversidade Biológica (CDB) o Governo Brasileiro criou o Programa Nacional da Diversidade Biológica-PRONABIO, por meio do Decreto Federal nº 1.354, de 29 de dezembro de 1994, e iniciou negociações com o GEF para receber recursos de doação para implementação de um projeto que apoiasse a implementação da PRONABIO.
+
+:::
+
+### Atualidade
+
+Compete ao MMA supervisionar a implementação do PRONABIO (art. 4º), que será financiado com recursos do Tesouro Nacional e recursos captados no País e no exterior, junto a órgãos governamentais, privados e multilaterais (art. 5º). O PRONABIO tem por objetivo (art. 2º):
+
+::: {.callout-note icon=false}
+
+## Decreto nº 4.703/2003, art. 2º
+
+I - orientar a elaboração e a implementação da Política Nacional da Biodiversidade, com base nos princípios e diretrizes instituídos pelo Decreto nº 4.339, de 22 de agosto de 2002, mediante a promoção de parceria com a sociedade civil para o conhecimento e a conservação da diversidade biológica, a utilização sustentável de seus componentes e a repartição justa e eqüitativa dos benefícios derivados de sua utilização, de acordo com os princípios e diretrizes da Convenção sobre Diversidade Biológica, da Agenda 21,
+da Agenda 21 brasileira e da Política Nacional do Meio Ambiente;
+
+II - promover a implementação dos compromissos assumidos pelo Brasil junto à Convenção sobre Diversidade Biológica e orientar a elaboração e apresentação de relatórios nacionais perante esta Convenção;
+
+III - articular as ações para implementação dos princípios e diretrizes da Política Nacional da Biodiversidade no âmbito do Sistema Nacional do Meio Ambiente - SISNAMA e junto aos órgãos e entidades da União, Estados, Distrito Federal, Municípios e da sociedade civil;
+
+IV - formular e implantar programas e projetos em apoio à execução das ações previstas no Decreto nº 4.339, de 2002;
+
+V - estimular a cooperação interinstitucional e internacional, inclusive por meio do mecanismo de intermediação da Convenção sobre Diversidade Biológica, para a melhoria da implementação das ações de gestão da biodiversidade;
+
+:::
+
+## CONABIO
+
+::: {.callout-note}
+
+## A Portaria MMA nº 394, de 17 de agosto de 2021 aprova o Regimento Interno da CONABIO.
+
+Art. 1º A Comissão Nacional de Biodiversidade é instância colegiada de caráter consultivo, cuja finalidade é coordenar, acompanhar e avaliar as ações do Programa Nacional de Diversidade Biológica PRONABIO, conforme expressa o Decreto nº 4.703, de 21 de maio de 2003 e demais alterações, competindo-lhe o seguinte:
+
+<span style="display: block; margin-left: 30px;">
+    I - coordenar a elaboração da Política Nacional da Biodiversidade, com base nos princípios e diretrizes previstos no Decreto no 4.339, de 2002;
+<span>
+
+<span style="display: block; margin-left: 30px;">
+    II - promover a implementação dos compromissos assumidos pelo Brasil junto à Convenção sobre Diversidade Biológica
+<span>
+
+:::
+
