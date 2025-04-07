@@ -5,6 +5,16 @@ específicos explicitamente relacionados.
 
 ## Decreto Federal nº 4.339/2002
 
+::: {.callout-tip collapse="true"}
+
+## Consulte o Decreto Federal nº 4.339/2002
+
+- Fonte oficial: [https://www.planalto.gov.br/ccivil_03/decreto/2002/d4339.htm](https://www.planalto.gov.br/ccivil_03/decreto/2002/d4339.htm)
+
+- Livro online em Quarto Markdown: [https://lsbjordao.github.io/PNB/](https://lsbjordao.github.io/PNB/).
+
+:::
+
 Componente 1 - Conhecimento da Biodiversidade:
 
 ::: {.callout-note icon=false}
