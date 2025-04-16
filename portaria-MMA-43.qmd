@@ -62,16 +62,16 @@ definidos
 
 As espécies consideradas ameaçadas de extinção são aquelas enquadradas nas
 categorias (art. 6º § 2º):
-• Extinta (EX);
-• Extinta na Natureza (EW);
-• Criticamente em Perigo (CR);
-• Em Perigo (EN); e
-• Vulnerável (VU).
+- Extinta (EX);
+- Extinta na Natureza (EW);
+- Criticamente em Perigo (CR);
+- Em Perigo (EN); e
+- Vulnerável (VU).
 
 As espécies consideradas como Espécies Prioritárias para Pesquisa sobre o Estado
 de Conservação (art. 6º § 3º):
-• Quase Ameaçada de Extinção (NT); e
-• Dados Insuficientes (DD).
+- Quase Ameaçada de Extinção (NT); e
+- Dados Insuficientes (DD).
 
 As espécies das categorias Extinta (EX) e Extinta na Natureza (EW) que forem reencontradas
 na natureza, mediante comprovação cientifica, serão automaticamente classificadas

@@ -13,6 +13,7 @@ book:
     - portaria-MMA-43.qmd
     - portaria-MMA-443.qmd
     - revisao-das-listas.qmd
+    - cites.qmd
     - references.qmd
 
 bibliography: references.bib
