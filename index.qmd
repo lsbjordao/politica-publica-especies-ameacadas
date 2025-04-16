@@ -1,5 +1,4 @@
-# Prefácio {.unnumbered}
+# Preâmbulo {.unnumbered}
 
-This is a Quarto book.
+A Política Pública de Proteção das Espécies Ameaçadas representa um esforço estratégico e contínuo para garantir a sobrevivência da biodiversidade, com foco nas espécies em risco de extinção.
 
-To learn more about Quarto books visit <https://quarto.org/docs/books>.
