@@ -182,7 +182,7 @@
     "href": "revisao-das-listas.html",
     "title": "Revisão das Listas Nacionais Oficiais de Espécies Ameaçadas de Extinção",
     "section": "",
-    "text": "Portaria MMA nº 162/16\nEstabelece os procedimentos para revisão, elaboração e publicação das Listas Nacionais Oficiais de Espécies Ameaçadas de Extinção, previstas no Pró-Espécies, estabelecido pela Portaria nº 43/14 (art. 1º).",
+    "text": "Portaria MMA nº 162/16\nEstabelece os procedimentos para revisão, elaboração e publicação das Listas Nacionais Oficiais de Espécies Ameaçadas de Extinção, previstas no Pró-Espécies, estabelecido pela Portaria nº 43/14 (art. 1º).\nNa reunião da CONABIO:\nflowchart TD\n    A[Propostas de&lt;br&gt;Alteração das Listas] --&gt; B{Espécies&lt;br&gt;questionadas?}\n    B -- Não&lt;br&gt;(em até 60 dias) --&gt; C[Espécies não&lt;br&gt;questionadas]\n    B -- Sim&lt;br&gt;(em até 60 dias) --&gt; D[Espécies questionadas&lt;br&gt;Apresentação de estudos&lt;br&gt;e análises pela CONABIO]\n    \n    D --&gt; E[Avaliação pelo MMA]\n    C --&gt; H[Espécie segue para publicação&lt;br&gt;na Lista Nacional atualizada]\n    E -- Procedente --&gt; F[Recondução da avaliação&lt;br&gt;da espécie questionada&lt;br&gt;pelo ICMBio e JBRJ]\n    E -- Não procedente --&gt; H",
     "crumbs": [
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>Revisão das Listas Nacionais Oficiais de Espécies Ameaçadas de Extinção</span>"
     ]
