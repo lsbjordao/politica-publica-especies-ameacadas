@@ -13,6 +13,7 @@ book:
     - portaria-MMA-43.qmd
     - portaria-MMA-443.qmd
     - revisao-das-listas.qmd
+    - cncflora.qmd
     - cites.qmd
     - references.qmd
 
@@ -24,6 +25,8 @@ format:
       light: lux
       dark: cyborg
     number-sections: false
+    number-depth: 4
+    toc-depth: 4
     css: "style.css"
     include-in-header:
       - text: |
