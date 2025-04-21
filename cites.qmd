@@ -1,2 +1,197 @@
 # CITES
 
+A **Convenção sobre o Comércio Internacional de Espécies da Flora e da Fauna Selvagens Ameaçadas de Extinção** ([CITES](https://cites.org/eng)) tem como principal objetivo assegurar que a fauna e a flora selvagens utilizadas no comércio internacional não sejam exploradas de forma insustentável.
+
+A CITES estabeleceu uma **estrutura normativa internacional** para regulamentar o comércio internacional de fauna e flora silvestres, criando obrigações e protocolos de controle e fiscalização, especialmente no que tange ao comércio de espécies ameaçadas (ou partes e derivados), por meio de um sistema de licenças e certificados ([Ibama](https://www.gov.br/ibama/pt-br/assuntos/biodiversidade/cites-e-comercio-exterior/convencao-sobre-comercio-internacional-das-especies-da-flora-e-fauna-selvagens-em-perigo-de-extincao-cites)).
+
+O acordo foi assinado em 3 de março de 1973, em Washington, EUA, e entrou em vigor em 1º de julho de 1975. Atualmente, conta com mais de 130 Estados-Partes, incluindo o Brasil, que o ratificou em 24 de junho de 1975 ([Decreto Legislativo nº 54/75](https://www.planalto.gov.br/ccivil_03/decreto/Antigos/D76623.htm)) e promulgou em 17 de novembro de 1975 ([Decreto nº 76.623/75](https://www.planalto.gov.br/ccivil_03/decreto/Antigos/D76623.htm)). 
+
+A CITES abrange cerca de 30.000 espécies da fauna e flora selvagens, e desde sua adoção, não houve registro de extinção provocada pelo comércio internacional de qualquer das espécies incluídas (MMA, 2021).
+
+Para compreender a CITES, é necessário analisar dois instrumentos normativos fundamentais:
+
+1. **Decreto Legislativo nº 54/75**, que aprovou o texto da CITES;
+2. **Decreto CONAMA nº 3.607/00**, que regula a implementação da CITES no Brasil.
+
+O decreto de implementação é mais sucinto do que o texto oficial da CITES, que trata de questões como as reuniões das partes, emendas aos anexos, entre outros. O Decreto CONAMA, por sua vez, traz disposições específicas para regulamentação no Brasil.
+
+As disposições normativas do texto da CITES abordam principalmente os requisitos para o comércio, medidas e instrumentos de aplicação (como os Anexos I, II e III), licenças e certificados, facilitação do comércio legal, marcações, apreensões, relatórios, comércio com países não pertencentes (não-partes), alterações nos Anexos, exceções e procedimentos especiais.
+
+Atualmente, o **IBAMA** é responsável pelo controle e emissão de licenças, realizadas por meio do **Sistema de Emissão de Licenças CITES e Não CITES** ([SISCITES](https://www.gov.br/ibama/pt-br/servicos/sistemas/siscites)).
+
+## Anexos I, II e III
+
+Abaixo, o quadro sintetiza o objetivo de cada um dos três anexos da CITES:
+
+| **Anexo I** | **Anexo II** | **Anexo III** |
+|--------------|--------------|---------------|
+| **Espécies ameaçadas de extinção**, que são ou podem vir a ser afetadas pelo comércio, e cujo comércio somente será permitido em **circunstâncias excepcionais**. | Espécies **não necessariamente ameaçadas de extinção**, mas que cujo comércio deve ser regulado/controlado a fim de evitar usos incompatíveis com sua sobrevivência. |**Espécies que são protegidas em pelo menos um país** e que tenha solicitado **assistência às demais partes da Convenção para controlar seu comércio**, e cujo comércio é permitido, porém regulado, ainda que de modo menos restritivo que o Anexo II. |
+
+## Decreto Legislativo nº 54/75
+
+O [Decreto Legislativo nº 54/75](https://www.planalto.gov.br/ccivil_03/decreto/Antigos/D76623.htm) aprova o texto da CITES.
+
+O texto da CITES é organizado por artigos em números romanos, alguns subdivididos em itens (1, 2, 3, ...; I, II, III; i, ii, iii; a, b, c, ...) e outros sem subdivisões.
+
+ARTIGOS:
+
+- I - Definições
+    - Define os conceitos de *espécie*, *espécime*, *comércio*, *reexportação*, *introdução procedente do mar*, *autoridade científica*, *autoridade administrativa* e *parte*.
+- II - Princípios Fundamentais
+    - Define a finalidade dos anexos I, II e III.
+- III - Regulamentação do Comércio de Espécimes de Espécies Incluídas no Anexo I
+- IV - Regulamentação do Comércio de Espécimes de Espécies Incluídas no Anexo II
+- V - Regulamentação do Comércio de Espécimes de Espécies Incluídas no Anexo III
+- VI - Licenças e Certificado
+    - As autorizações para comercialização entre os países são regulados pela concessão e apresentação **prévia de licenças de importação**, de **exportação** e **certificados de reexportação**.
+- VII - Isenções e outras Disposições Especiais Relacionadas com o Comércio 
+    - Introduz disposições relacionadas à segurança jurídica, como controle aduaneiro, espécimes em comércio cuja autorização é anterior à data de vigoração de proteção dessa convenção, espécimes que sejam objetos pessoais ou de uso doméstico, aqueles reproduzidos artificialmente para fins comerciais, aqueles expedidos para empréstimo, doação ou intercâmbio não comercial entre cientistas ou instituições científicas, entre outras disposições.
+- VIII - Medidas que Deverão Adotar as Partes 
+    - Trata sobre a fiscalização e o confisco de espécimes, bem como a manutenção de registros do comércio de espécimes.
+- IX - Autoridades Administrativas e Científicas
+    - Trata sobre a fiscalização e o confisco de espécimes, bem como a manutenção de registros do comércio de espécimes.
+- X - Comércio com Estados que não são Partes da Convenção 
+    - O comércio com um país que não seja signatário da convenção não é proibido, sendo aceito documentos similares aos exigidos pelos países signatários.
+
+Os artigos XI a XXV dizem respeito às convocações e funcionamento das conferência das partes, à possibilidade de imposição de medidas restritivas, mais rígidas por parte dos países signatários, e emendas aos anexos:
+
+- XI - Conferência das Partes
+- XII - A Secretaria
+- XIII - Medidas Internacionais
+- XIV - Efeito sobre a Legislação Nacional e Convenções Internacionais
+- XV - Emendas aos Anexos I e II
+- XVI - Anexo III e suas Emendas
+- XVII - Emendas à Convenção
+- XVIII - Solução de Controvérsias
+- XIX - Assinatura
+- XX - Ratificação, Aceitação e Aprovação
+- XXI - Adesão
+- XXII - Entrada em Vigor
+- XXIII - Reservas
+- XXIV - Denúncia
+- XXV - Depositário
+
+## Decreto CONAMA nº 3.607/00
+
+Dispõe sobre a implementação da CITES. 
+
+Observemos os capítulos e seções desse decreto:
+
+- CAPÍTULO I - DAS DISPOSIÇÕES GERAIS
+    - Seção I - Da Autoridade Administrativa
+    - Seção II - Da Autoridade Científica
+- CAPÍTULO II - DOS PROCEDIMENTOS NECESSÁRIOS AO COMÉRCIO INTERNACIONAL
+DE ESPÉCIES
+    - Seção I - Das espécies integrantes do Anexo I da CITES
+    - Seção II - Das espécies integrantes do Anexo II da CITES
+    - Seção III - Das espécies integrantes do Anexo III da CITES
+- CAPÍTULO III - DA FORMA E VALIDADE DAS LICENÇAS E CERTIFICADOS CITES
+- CAPÍTULO IV - DAS ISENÇÕES
+- CAPÍTULO V - DO COMÉRCIO COM PAÍSES QUE NÃO SÃO MEMBROS DA CONVENÇÃO
+- CAPÍTULO VI - DAS DISPOSIÇÕES FINAIS
+
+### Das Definições
+
+Nesse decreto, o Capítulo I traz as definições dos conceitos utilizados na norma, à semelhança do Artigo I do texto oficial:
+
+- **Espécie**: toda espécie, subespécie ou uma população geograficamente isolada.
+- **Espécime**: qualquer animal ou planta, vivo ou morto, ou qualquer parte ou derivado facilmente identificável destes.
+- **Comércio**: exportação, reexportação, importação e introdução procedente do mar.
+- **Reexportação**: a exportação de todo espécime que tenha sido previamente importado.
+- **Introdução procedente do mar**: o transporte para o interior de um país, de espécimes de espécies capturadas no meio marinho, fora da jurisdição de qualquer país 
+- **Autoridade Cientifica**: uma autoridade científica nacional designada de acordo com o Artigo IX do texto oficial.
+- **Autoridade Administrativa**: uma autoridade administrativa nacional designada de acordo com o Artigo IX.
+- **Parte**: um Estado para o qual a presente Convenção tenha entrado em vigor.
+- **Licença ou Certificado CITES**: documento emitido pela Autoridade Administrativa que possui as características descritas no Capítulo III do Decreto CONAMA nº 3.607/00.
+- **Certificado Pré-Convenção**: o documento que cumpre os requisitos do Capítulo III deste Decreto e no qual conste a informação pertinente ao local do nascimento do espécime, cativeiro ou habitat natural em data anterior à Convenção, ou que a inclusão da espécie no respectivo Anexo tenha sido feita posteriormente.
+- **Fins preferencialmente comerciais**: atividades cujos aspectos comerciais são predominantes.
+
+### Da Autoridade Administrativa
+
+O IBAMA é a autoridade administrativa nacional, que tem atribuição principal a concessão de licenças e certificados em nome do Brasil.
+
+:::{.callout-note}
+
+## Decreto CONAMA nº 3.607/00
+
+Art. 3º Fica designada como Autoridade Administrativa, [...], o Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis - IBAMA.<br>
+<br>
+Art. 4º Caberá à **Autoridade Administrativa**, além das atribuições para a **emissão de licenças** previstas no Capítulo II:
+
+<span style="display: block; margin-left: 30px;">
+    I - manter o registro do comércio de espécimes das espécies incluídas nos Anexos I, II e III da CITES, que deverá conter, no mínimo:<br>
+    <span style="display: block; margin-left: 60px;">
+        a) nomes e endereços dos exportadores e importadores;<br>
+        b) número e natureza das Licenças e Certificados emitidos;<br>
+        c) países com os quais foi realizado o comércio;<br>
+        d) quantidade e tipos de espécimes;<br>
+        e) nomes das espécies incluídas nos Anexos I, II e III da CITES; e<br>
+        f) tamanho e sexo dos espécimes, quando for o caso;<br>
+    </span>
+    II - elaborar e remeter relatórios periódicos à Secretaria da CITES, nos termos do artigo VIII da Convenção;<br>
+    III - fiscalizar as condições de transporte, cuidado e embalagem dos espécimes vivos, objeto de comércio;<br>
+    IV - coordenar as demais autoridades que com ela atuam em conjunto na atribuição prevista no inciso anterior;<br>
+    V - apreender os espécimes obtidos em infração à Lei no 9.605, de 12 de fevereiro de 1998;<br>
+    VI - devolver ao país de origem ou determinar o destino provisório ou definitivo dos espécimes vivos apreendidos nos  termos do inciso anterior;<br>
+    [...]
+</span>
+
+:::
+
+### Da Autoridade Científica
+
+As autoridade científicas brasileiras são: o **IBAMA**, o Instituto Chico Mendes de Conservação da Biodiversidade - **Instituto Chico Mendes** e o Instituto de Pesquisas Jardim Botânico do Rio de Janeiro - **JBRJ**. A atribuição principal das autoridades científicas é assessorar tecnicamente e cientificamente a autoridade administrativa para que esta tome decisões fundamentadas na ciência e estudos técnicos.
+
+:::{.callout-note}
+
+## Decreto CONAMA nº 3.607/00
+
+Art. 5º Ficam designados como Autoridades Científicas, conforme determina a letra b do art. IX da Convenção, o IBAMA, o Instituto Chico Mendes de Conservação da Biodiversidade - Instituto Chico Mendes e o Instituto de Pesquisas Jardim Botânico do Rio de Janeiro - JBRJ.<br>
+
+Parágrafo único. As Autoridades Científicas poderão designar pessoas físicas ou jurídicas de reconhecida capacidade científica, para auxiliá-las no desempenho da sua função.<br>
+<br>
+Art. 6º Caberá às **Autoridades Científicas**, além das atribuições previstas no Capítulo II:
+
+<span style="display: block; margin-left: 30px;">
+   I - informar à Autoridade Administrativa as variações relevantes do status populacional das espécies incluídas nos Anexos II e III da CITES, com o objetivo de propor a elaboração de planos de manejo;<br>
+   I - cooperar na realização de programas de conservação e manejo de espécies autóctones incluídas nos Anexos II e III da CITES, com comércio internacional significativo, estabelecido pelas Autoridades Científicas; e<br>
+   III - assessorar a Autoridade Administrativa a respeito do destino provisório ou definitivo dos espécimes interditados, apreendidos ou confiscados.
+
+No site do Sistema de Informação sobre a Biodiversidade Brasileira (SiBBr) é possível
+</span>
+
+:::
+
+## Espécies da flora brasileira na CITES
+
+No site do Sistema de Informação sobre a Biodiversidade Brasileira (SiBBr) é possível consultar as espécies de plantas brasileiras incluídas no [CITES](https://specieslist.sibbr.gov.br/public/speciesLists?q=cites) no [Anexo I](https://specieslist.sibbr.gov.br/speciesListItem/list/drt1627658274030) e Anexo II ([Não orquídeas](https://specieslist.sibbr.gov.br/speciesListItem/list/drt1627913569884) e [Orquídeas](https://specieslist.sibbr.gov.br/speciesListItem/list/drt1627918745098)).
+
+### Pau-brasil (*Paubrasilia echinata*)
+
+> Como o pau-brasil, ameaçado de extinção e símbolo nacional, acaba em arcos de violino na Europa ([PiauíFolha](https://piaui.folha.uol.com.br/como-o-pau-brasil-arvore-ameacada-de-extincao-e-simbolo-nacional-acaba-em-arcos-de-violino-na-europa/)).
+
+> Músicos defendem uso de pau-brasil para fazer arcos de violino e violoncelo ([OTempo](https://www.otempo.com.br/entretenimento/musicos-defendem-uso-de-pau-brasil-para-fazer-arcos-de-violino-e-violoncelo-1.2776749)).
+
+> Ibama intercepta contrabando de Pau-Brasil no aeroporto de Guarulhos/SP ([Ibama, 2022](https://www.gov.br/ibama/pt-br/assuntos/noticias/2022/ibama-intercepta-contrabando-de-pau-brasil-no-aeroporto-de-guarulhos-sp)).
+
+> PF diz que quadrilha pode ter faturado mais de R$ 500 milhões com a venda ilegal de pau-brasil
+ ([Globo/Fantástico, 2022](https://g1.globo.com/fantastico/noticia/2022/12/04/pf-diz-que-quadrilha-pode-ter-faturado-mais-de-r-500-milhoes-com-a-venda-ilegal-de-pau-brasil.ghtml)).
+
+> Cobiçado para uso em instrumentos de corda, o pau-brasil tem a China como maior fornecedor hoje ([ValorGlobo, 2024](https://valor.globo.com/eu-e/noticia/2024/11/08/cobicado-para-uso-em-instrumentos-de-corda-o-pau-brasil-tem-a-china-como-maior-fornecedor-hoje.ghtml)).
+
+### Gênero *Dalbergia*
+
+Todo gênero *Dalbergia* está listado no Anexo II, mas o jacarandá (*Dalbergia nigra*) está no Anexo I.
+
+### Orquídeas 
+
+Existem 2.577 espécies de orquídeas listadas no Anexo II e 19 no Anexo I.
+
+### Cactos
+
+Existem 334 espécies de cactos listados no Anexo II e 17 no Anexo I.
+
+### Samabaias
+
+O “xaxim” ou “samambaiaçu” (*Dicksonia sellowiana*) está non Anexo II.
+

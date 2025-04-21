@@ -13,6 +13,7 @@ book:
     - portaria-MMA-43.qmd
     - portaria-MMA-443.qmd
     - revisao-das-listas.qmd
+    - portaria-299.qmd
     - cncflora.qmd
     - cites.qmd
     - references.qmd
@@ -22,7 +23,7 @@ bibliography: references.bib
 format:
   html:
     theme:
-      light: lux
+      light: brite
       dark: cyborg
     number-sections: false
     number-depth: 4
@@ -34,4 +35,8 @@ format:
 
 lang: pt
 
-
+comments:
+  hypothesis: 
+    theme: clean
+  giscus: 
+    repo: lsbjordao/politica-publica-especies-ameacadas

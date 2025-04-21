@@ -1,83 +1,87 @@
-# Portaria MMA nº 43/14
+# Programa Pró-Espécies {#sec-port43}
 
-O Brasil vem construindo uma política pública de meio ambiente e biodiversidade sólida em suas bases doutrinárias e estruturação de políticas públicas. 
+O Brasil vem construindo uma política pública de meio ambiente e biodiversidade sólida em suas bases doutrinárias e estruturação de políticas públicas para espécies ameaçadas de extinção.
 
-No que diz respeito às espécies ameaçadas brasileiras, o MMA instituiu o **Programa Nacional de Conservação das Espécies Ameaçadas de Extinção - Pró-Espécies**, sancionado pela Portaria nº 43, de 31 de janeiro de 2014, com o objetivo de cumprir a Meta 12 da Convenção sobre Diversidade Biológica (CDB), que é o de adotar ações de prevenção, conservação, manejo e gestão, com vistas a minimizar as ameaças e o risco de extinção de espécies. 
+Desde 2014, as normas administrativas relativas às espécies ameaçadas de extinção eram disciplinadas pela Portaria MMA nº 43/14, que instituiu o Pró-Espécies, mas atualmente esta foi revogada pela Portaria GM/MMA nº 299/22 (@sec-port299).
 
-Nessa portaria, espécies ameaçadas são conceituadas como aquelas cujas populações
-e/ou habitats estão desaparecendo rapidamente, de forma a colocá-las em risco de tornarem-se extintas. 
+## Portaria MMA nº 43/14
 
-As categorias utilizadas no método de avaliação de risco de extinção de espécies seguem as definições e critérios da União Internacional para Conservação da Natureza
-(UICN):
+No que diz respeito às espécies ameaçadas brasileiras, o MMA instituiu o **Programa Nacional de Conservação das Espécies Ameaçadas de Extinção - Pró-Espécies**, sancionado pela [Portaria MMA nº 43/14](https://www.gov.br/icmbio/pt-br/assuntos/biodiversidade/pan/saiba-mais/documentos-e-downloads/03_-_portaria_mma_no_43_de_31_de_jan_de_2014.pdf), de 31 de janeiro de 2014, com o objetivo de cumprir a Meta 12 da Convenção sobre Diversidade Biológica (CDB), que é o de adotar ações de prevenção, conservação, manejo e gestão, com vistas a minimizar as ameaças e o risco de extinção de espécies. 
 
-a) Extinta (EX): quando não restam quaisquer dúvidas de que o último indivíduo
-da espécie tenha desaparecido
+Nessa portaria, espécies ameaçadas são conceituadas como aquelas cujas populações e/ou habitats estão desaparecendo rapidamente, de forma a colocá-las em risco de tornarem-se extintas.
 
-b) Extinta na Natureza (EW): quando a sobrevivência da espécie é conhecida apenas em
-cultivo, cativeiro ou como populações naturalizadas fora da sua área de distribuição natural
+### Categorias 
 
-c) Criticamente
-em Perigo (CR)
-quando as melhores evidências disponíveis indicam que se
-atingiu qualquer um dos critérios quantitativos para Criticamente
-em Perigo, e por isso considera-se que a espécie
-está enfrentando risco extremamente alto de extinção na
-natureza
-d) Em Perigo (EN) quando as melhores evidências disponíveis indicam que
-se atingiu qualquer um dos critérios quantitativos para em
-Perigo, e por isso considera-se que a espécie está enfrentando
-risco muito alto de extinção na natureza
-e) Vulnerável (VU) quando as melhores evidências disponíveis indicam que
-se atingiu qualquer um dos critérios quantitativos para Vulnerável,
-e por isso considera-se que a espécie está enfrentando
-risco alto de extinção na natureza
-f) Quase
-Ameaçada
-de Extinção
-(NT)
-quando, ao ser avaliado pelos critérios, a espécie não
-se qualifica atualmente como Criticamente em Perigo,
-Em Perigo ou Vulnerável, mas se aproxima dos limiares
-quantitativos dos critérios, sendo provável que venha a
-enquadrar-se em uma categoria de ameaça em futuro próximo
-g) Menos Preocupante
-(LC)
-quando a espécie, não se qualifica como CR, EN, VU ou
-NT
-h) Dados Insuficientes
-(DD)
-quando não há informação adequada sobre a espécie para
-fazer uma avaliação direta ou indireta do seu risco de extinção,
-com base na sua distribuição e/ou estado populacional
-i) Não aplicável
-(NA)
-Espécie que, embora registrada no Brasil, ocorre em proporção
-extremamente baixa no território nacional (normalmente
-< 1% de sua população global), ou não é uma população
-selvagem ou é apenas uma visitante ocasional
-j) Não Avaliada
-(NE)
-Espécie não avaliada pelos critérios de avaliação de risco
-definidos
+As categorias utilizadas no método de avaliação de risco de extinção de espécies seguem as definições e critérios da União Internacional para Conservação da Natureza (UICN):
 
-As espécies consideradas ameaçadas de extinção são aquelas enquadradas nas
-categorias (art. 6º § 2º):
-- Extinta (EX);
-- Extinta na Natureza (EW);
-- Criticamente em Perigo (CR);
-- Em Perigo (EN); e
-- Vulnerável (VU).
+a) `Extinta (EX)`: quando não restam quaisquer dúvidas de que o último indivíduo da espécie tenha desaparecido
 
-As espécies consideradas como Espécies Prioritárias para Pesquisa sobre o Estado
-de Conservação (art. 6º § 3º):
-- Quase Ameaçada de Extinção (NT); e
-- Dados Insuficientes (DD).
+b) `Extinta na Natureza (EW)`: quando a sobrevivência da espécie é conhecida apenas em cultivo, cativeiro ou como populações naturalizadas fora da sua área de distribuição natural
 
-As espécies das categorias Extinta (EX) e Extinta na Natureza (EW) que forem reencontradas
-na natureza, mediante comprovação cientifica, serão automaticamente classificadas
-como Criticamente em Perigo (CR) até que a publicação atualizada das Listas
-Nacionais Oficiais de Espécies Ameaçadas de Extinção as enquadre na categoria adequada
-(art. 6º § 5º). E as espécies consideradas extintas nos últimos 50 anos serão indicadas no instrumento legal de divulgação das Listas Nacionais Oficiais das Espécies
-Ameaçadas de Extinção (art. 6º § 6º).
-Segundo a referida portaria:
+c) `Criticamente em Perigo (CR)`: quando as melhores evidências disponíveis indicam que se atingiu qualquer um dos critérios quantitativos para Criticamente em Perigo, e por isso considera-se que a espécie está enfrentando risco extremamente alto de extinção na natureza
 
+d) `Em Perigo (EN)`: quando as melhores evidências disponíveis indicam que se atingiu qualquer um dos critérios quantitativos para em Perigo, e por isso considera-se que a espécie está enfrentando risco muito alto de extinção na natureza
+
+e) `Vulnerável (VU)`: quando as melhores evidências disponíveis indicam que se atingiu qualquer um dos critérios quantitativos para Vulnerável, e por isso considera-se que a espécie está enfrentando risco alto de extinção na natureza
+
+f) `Quase Ameaçada de Extinção (NT)`: quando, ao ser avaliado pelos critérios, a espécie não se qualifica atualmente como Criticamente em Perigo, Em Perigo ou Vulnerável, mas se aproxima dos limiares quantitativos dos critérios, sendo provável que venha a enquadrar-se em uma categoria de ameaça em futuro próximo 
+
+g) `Menos Preocupante (LC)`: quando a espécie, não se qualifica como CR, EN, VU ou NT
+
+h) `Dados Insuficientes (DD)`: quando não há informação adequada sobre a espécie para fazer uma avaliação direta ou indireta do seu risco de extinção, com base na sua distribuição e/ou estado populacional 
+
+i) `Não aplicável (NA)`: Espécie que, embora registrada no Brasil, ocorre em proporção extremamente baixa no território nacional (normalmente < 1% de sua população global), ou não é uma população selvagem ou é apenas uma visitante ocasional
+
+j) `Não Avaliada (NE)`: Espécie não avaliada pelos critérios de avaliação de risco definidos
+
+### Categorias das Ameaçadas de Extinção
+
+As espécies consideradas ameaçadas de extinção são aquelas enquadradas nas categorias (art. 6º § 2º):
+
+- `Extinta (EX)`;
+- `Extinta na Natureza (EW)`;
+- `Criticamente em Perigo (CR)`;
+- `Em Perigo (EN)`; e
+- `Vulnerável (VU)`.
+
+### Categorias das Espécies Prioritárias para Pesquisa
+
+As espécies consideradas como Espécies Prioritárias para Pesquisa sobre o Estado de Conservação (art. 6º § 3º):
+
+- `Quase Ameaçada de Extinção (NT)`; e
+- `Dados Insuficientes (DD)`.
+
+### Instrumentos
+
+:::{.callout-note}
+
+## Portaria MMA nº 43/14
+
+Art. 3º São **instrumentos** do Pró-Especies:
+
+<span style="display: block; margin-left: 30px;">
+    I - <b>Listas Nacionais Oficiais de Espécies Ameaçadas de Extinção</b>, com a finalidade de reconhecer as espécies ameaçadas de extinção no território nacional, na plataforma continental e na zona econômica exclusiva brasileira, para efeitos de restrição de uso, priorização de ações de conservação e recuperação de populações;<br>
+    II - <b>Planos de Ação Nacionais para Conservação de Espécies Ameaçadas de Extinção-PAN</b>, elaborados com a finalidade de definir ações in situ e ex situ para conservação e recuperação de espécies ameaçadas de extinção e quase ameaçadas; e<br>
+    III - <b>Bases de dados e sistemas de informação</b> voltados a subsidiar as avaliações de risco de extinção, bem como o processo de planejamento de ações para a conservação, com a identificação das áreas de maior importância biológica para as espécies ameaçadas de extinção e as áreas de maior incidência de atividades antrópicas que colocam em risco sua sobrevivência.
+</span>
+:::
+
+### Avaliação do Risco de Extinção
+
+:::{.callout-note}
+
+## Portaria MMA nº 43/14
+
+Art. 7º. As avaliações do estado de conservação das espécies da fauna e da flora brasileira deverão, além de apresentar critérios e categorias, conter, no mínimo, informações sobre a distribuição geográfica, estado de conservação e principais fatores de ameaça.
+
+<span style="display: block; margin-left: 30px;">
+    § 3º As avaliações do estado de conservação das espécies tem caráter técnico-científico, com a adoção de critérios referentes a: 
+    <span style="display: block; margin-left: 30px;">
+        I - tamanho da população e informações sobre fragmentação, flutuações ou declínio passado e/ou projetado;<br>
+        II - extensão da distribuição geográfica, da área de ocupação e informações sobre fragmentação, declínio ou flutuações;<br>
+        III - ameaças que afetam a espécie; e<br>
+        IV - medidas de conservação já existentes.
+    </span>
+</span>
+
+:::

@@ -1,2 +1,44 @@
-# Portaria MMA nº 443/14
+# Normas do Regime de Uso e Proteção e Lista Nacional Oficial de Espécies da Flora Ameaçadas de Extinção
 
+As Listas de espécies ameaçadas da flora brasileira vêm sendo sancionadas em portarias e uma instrução normativa desde 1968 pelo extinto Instituto Brasileiro de Desenvolvimento Florestal (IBDF), depois pelo IBAMA, e por último, pelo MMA. 
+
+A Portaria MMA nº 443/14 (@sec-port443) estabelece as **normas de proteção** das espécies ameaçadas de extinção, condizentes com as normas dos protocolos da [Lista Vermelha da IUCN](https://www.iucnredlist.org/), e publica a **Lista Nacional Oficial de Espécies da Flora Ameaçadas de Extinção**. Entretanto, a Lista Oficial passou por uma revisão e foi atualizada pela Portaria MMA nº 148/22. Vale destacar que esta última não revoga a primeira portaria, mas apenas os Anexos, que são as Listas Oficiais. Dessa forma, os Anexos apresentado pela Portaria MMA nº 148/22 (@sec-port148) prevalecem como as Listas mais atualizadas.
+
+## Portaria MMA nº 443/14 {#sec-port443}
+
+A [Portaria MMA nº 443/14](https://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=18/12/2014&jornal=1&pagina=110&totalArquivos=144), de 17 de dezembro de 2014, que convalidou as 2.113 espécies ameaçadas do [Livro Vermelho da Flora do Brasil](https://ckan.jbrj.gov.br/dataset/portaria_443/resource/1c77ec02-b490-4caa-83dc-33a418488c70), desenvolvido pelo CNCFlora.
+
+### Regime de Proteção
+
+**As espécies constantes da Lista Oficial ficam protegidas de modo integral, incluindo a proibição de coleta, corte, transporte, armazenamento, manejo, beneficiamento e comercialização, dentre outras** (art. 2º).
+
+#### Permissões
+
+- As restrições supracitadas não se aplicam a **exemplares cultivados em plantios devidamente licenciados** por órgão ambiental competente (§ 1º), nem se aplicam a produtos florestais não madeireiros, tais como sementes, folhas e frutos, desde que sejam adotadas (§ 2º):
+    - (I) Técnicas que não coloquem em risco a sobrevivência do indivíduo e a conservação da espécie; 
+    - (II) Recomendações dos Planos de Ação Nacionais para Conservação de Espécies Ameaçadas - PAN, quando existentes; e 
+    - (III) Restrições e recomendações previstas em normas especificas, incluindo atos internacionais. 
+
+- O **manejo sustentável** das espécies classificadas na categoria `Vulnerável (VU)` poderá ser permitido (art. 3º), desde que:
+    - (I) Não seja objeto de proibição em normas específicas, incluindo atos internacionais; 
+    - (II) Esteja em conformidade com a avaliação de risco de extinção de espécies;
+    - (III) Haja existência de dados de pesquisa, inventário florestal ou monitoramento que subsidiem tomada de decisão sobre o uso e conservação da espécie; e 
+    - (IV) Que se adote medidas indicadas nos PANs, quando existentes.
+
+- Para as **espécies madeireiras** constantes na categoria de `Vulnerável (VU)`, a exploração somente é permitida por meio de plano de manejo sustentável, que atenda os critérios estabelecidos pela [Instrução Normativa MMA nº 1/15](https://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=13/02/2015&jornal=1&pagina=67&totalArquivos=304), de 12 de fevereiro de 2015.
+
+- A coleta, o transporte, o beneficiamento, o armazenamento e o manejo para finalidades de **pesquisa científica** ou de **conservação** das espécies são permitidos desde que autorizados pelo Instituto Chico Mendes de Conservação da Biodiversidade, e estejam em conformidade com os PAN, quando existentes (Art. nº 2, § 3º). 
+
+- E se a finalidade for para **inventários florísticos** no âmbito de **licenciamentos ambientais**, a coleta botânica e o transporte das espécies são permitidos desde que autorizados pelo órgão ambiental licenciador competente em conformidade com os PAN, quando existentes (§ 4º).
+
+## Portaria MMA nº 148/22 {#sec-port148}
+
+
+​A [Portaria MMA nº 148/22](https://www.icmbio.gov.br/cepsul/images/stories/legislacao/Portaria/2020/P_mma_148_2022_altera_anexos_P_mma_443_444_445_2014_atualiza_especies_ameacadas_extincao.pdf), de 7 de junho de 2022, atualizou as listas nacionais de espécies da flora e fauna brasileiras ameaçadas de extinção ([JBRJ, 2022](https://www.gov.br/jbrj/pt-br/assuntos/noticias/ministerio-do-meio-ambiente-divulga-novas-listas-das-especies-ameacadas?utm_source=chatgpt.com
+)).
+
+Ela alterou os anexos das Portarias MMA nº 443, 444 e 445, todas de 2014, que reconhecem oficialmente as espécies ameaçadas e extintas da flora, da fauna terrestre e da fauna aquática, respectivamente. 
+
+Essa atualização ampliou significativamente o número de espécies avaliadas: 7.524 da flora e 8.537 da fauna até maio de 2021. 
+
+Como resultado, 1.462 espécies foram incluídas nas listas como ameaçadas, enquanto 280 saíram dessa categoria e 131 foram reclassificadas para categorias de menor ameaça. A portaria reflete o esforço contínuo do Ministério do Meio Ambiente e do ICMBio em aprimorar o monitoramento da biodiversidade e orientar políticas públicas de conservação no Brasil.

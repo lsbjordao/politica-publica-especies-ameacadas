@@ -1,12 +1,47 @@
 # CNCFlora/JBRJ
 
+## Regimento Interno do JBRJ de 2009
+
+O Centro Nacional de Conservação da Flora (CNCFlora) foi instituído em 2009 pela [Portaria MMA nº 401/09](https://www.normasbrasil.com.br/norma/portaria-401-2009_216601.html) como uma Coordenação-Geral vinculada à Diretoria de Pesquisa Científica (Dipeq) do Instituto de Pesquisas Jardim Botânico do Rio de Janeiro (JBRJ), autarquia federal vinculada ao Ministério do Meio Ambiente (MMA). Desde então, o CNCFlora atua como órgão técnico responsável pela coordenação das ações de avaliação e conservação da flora brasileira ameaçada de extinção.
+
+Segundo o regimento interno, competia ao CNCFlora/JBRJ:
+
+:::{.callout-note}
+
+## Portaria MMA nº 401/09
+
+Art. 27 [...] planejar, promover, coordenar, acompanhar e avaliar a execução das atividades
+na sua área de competência, e especificamente:
+
+<span style="display: block; margin-left: 30px;">
+    I - coordenar a revisão periódica da lista das espécies da flora brasileira ameaçadas de extinção;<br>
+    II - elaborar planos de ação orientados para a conservação e recuperação de espécies da flora brasileira ameaçadas de extinção;<br>
+    III - coordenar a implementação das ações de conservação ex situ de espécies da flora brasileira ameaçadas de extinção; e<br>
+    IV - realizar inventários em áreas prioritárias para conservação.
+</span>
+
+:::
+
+## Meta: Avaliar toda flora brasileira
+
+O papel estratégico do JBRJ, que tem se destacado por sua contribuição na implementação de ações, especialmente no âmbito da [Estratégia Global para a Conservação das Plantas](https://www.bgci.org/files/All/Key_Publications/gspc_portugues.pdf) (*Global Strategy for Plant Conservation* GSPC) [@Dalcin2018].
+
+A **Meta 2 da GSPC** diretamente ligada às atividades do CNCFlora, de **avaliar todas as espécies da flora quanto ao risco de extinção**, permanece um desafio [@Martins2017], mas o CNCFlora segue seu projeto interno de desenvolvimento tecnológico para suporte e automação dessas atividades e para o desenvolvimento dos planos de ações para conservação [Instrução Normativa MMA/JBRJ nº 1/2021, @JordaoMapbiomas].
+
+:::{.callout-note collapse="true"}
+
+## Necessidade de avaliar e reavaliar
+
+Completar a meta 2 da GSPC, de avaliar toda flora nacional, sem detrimento das conduções das reavaliações conforme a Portaria GM/MMA nº 299/22 (Art. 5, § 1º) [@sec-port299] é uma meta ambiciosa, sobretudo assegurando a qualidade e confiabilidade de dados e dos métodos. Entretanto, essa meta é alcançável com um desenvolvimento tecnológico orientado para automação e semi-automação dos procedimentos de avaliação do risco de extinção.
+:::
+
 ## Instrução Normativa MMA/JBRJ nº 1/2021
 
-Recentemente, o JBRJ sancionou a [Instrução Normativa MMA/JBRJ nº 1/2021](https://www.in.gov.br/web/dou/-/instrucao-normativa-n-1-de-10-de-dezembro-de-2021-366859283), que disciplina as diretrizes e procedimentos para a **Avaliação do Risco de Extinção das Espécies da Flora Brasileira**, a utilização do **Sistema Nacional para Conservação da Flora - ProFlora**, a política de dados e a publicação dos resultados.
+Recentemente, o JBRJ sancionou a [Instrução Normativa MMA/JBRJ nº 1/2021](https://www.in.gov.br/web/dou/-/instrucao-normativa-n-1-de-10-de-dezembro-de-2021-366859283), que disciplina as diretrizes e procedimentos para a **Avaliação do Risco de Extinção das Espécies da Flora Brasileira**, a utilização do **Sistema Nacional para Conservação da Flora - ProFlora** (@sec-proflora), a política de dados e a publicação dos resultados.
 
 ### O que ela normatiza?
 
-Essa norma estabelece como deve ser feita a Avaliação do Risco de Extinção das Espécies da Flora Brasileira. Ela define os princípios, etapas, responsabilidades e regras para o uso dos dados e sistemas relacionados a esse processo. É um documento oficial criado pelo Instituto de Pesquisas Jardim Botânico do Rio de Janeiro (JBRJ).
+Essa norma estabelece como deve ser feita a **Avaliação do Risco de Extinção das Espécies da Flora Brasileira**. Ela define os princípios, etapas, responsabilidades e regras para o uso dos dados e sistemas relacionados a esse processo. É um documento oficial criado pelo Instituto de Pesquisas Jardim Botânico do Rio de Janeiro (JBRJ).
 
 ### Objetivos principais
 
@@ -33,11 +68,47 @@ Art. 6º São atores do processo de avaliação do risco de extinção das espé
 
 :::
 
-## Sistema ProFlora
+## Sistema ProFlora {#sec-proflora}
 
 O [ProFlora](https://proflora.jbrj.gov.br/app/) é o sistema de avaliação de risco de extinção da flora do Brasil, desenvolvido para o gerenciamento de dados sobre espécies ameaçadas ([JBRJ Notícias, 2022](https://www.gov.br/jbrj/pt-br/assuntos/noticias/jbrj-apresenta-avancos-na-estrategia-para-conservacao-de-plantas-no-brasil-e-lanca-sistema-proflora)).
 
 O sistema ProFlora também tem apoiado órgãos ambientais estaduais no cumprimento de suas atribuições de elaborar listas regionais de espécies ameaçadas, conforme previsto na Lei Complementar nº 140/11. Essas cooperações ocorrem por meio de acordos firmados com o CNCFlora.
+
+## Avaliando o uso e cobertura do solo para avaliação do risco de extinção da flora brasileira
+
+Com a disponibilização de dados da série histórica da cobertura e uso do solo do MapBiomas na plataforma do Google Earth Engine, pudemos utilizar esses dados para avaliar as mudanças na superfície dentro da área de distribuição das espécies e utilizar esses dados para justificar o declínio contínuo dos protocolos da Lista Vermelha da IUCN.
+
+Em 2023, o CNCFlora participou da 4ª Edição do Prêmio MapBiomas na categoria *Aplicações em Políticas Públicas*, recebendo uma menção honrosa pelo trabalho intitulado “[O MapBiomas e a avaliação do risco de extinção da flora brasileira](https://brasil.mapbiomas.org/wp-content/uploads/sites/4/2023/08/MencaoHonrosa_CategoriaDestaqueAplicacoesEmPoliticasPublicas_LucasSBJordao.pdf)” [@JordaoMapbiomas; [YouTube](https://www.youtube.com/watch?v=Te4FLR2k-bo)]. Nesse trabalho, foram desenvolvidos projetos iniciais de automação de processos voltados à geração de dados como produtos utilizando os dados do MapBiomas a serem utilizados na avaliação do risco de extinção.
+
+## Novo Regimento Interno de 2024
+
+A missão do JBRJ foi renovada com a promulgação do [Decreto 12.137/24](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/decreto/d12137.htm), que aprova seu novo regimento interno (Anexo I). 
+
+Esse decreto define as finalidades principais da Instituição, que constituem seus objetivos primordiais, a saber:
+
+1. promover, realizar e divulgar o ensino e as pesquisas técnico-científicas sobre os recursos florísticos do País, com foco no conhecimento e na conservação da biodiversidade; 
+2. manter as coleções científicas sob sua responsabilidade (Anexo I, art. 1º, inc. I e II).
+
+O CNCFlora/JBRJ, que em 2024 completou 15 anos de sua criação, torna-se uma **Diretoria** do JBRJ ([JBRJ, 2024](https://www.gov.br/jbrj/pt-br/assuntos/noticias/cncflora-e-elevado-a-diretoria-do-jardim-botanico-do-rio-de-janeiro)).
+
+:::{.callout-note}
+
+## Decreto nº 12.137/24
+
+Art. 14.  Ao Centro Nacional de Conservação da Flora compete planejar, promover, coordenar, monitorar e avaliar a execução das atividades de conservação das espécies da flora e da funga brasileiras e, especificamente:
+
+<span style="display: block; margin-left: 30px;">
+    I - planejar, coordenar e supervisionar a elaboração do diagnóstico científico e da **avaliação do risco de extinção das espécies da flora e da funga brasileiras**;<br>
+    II - coordenar a elaboração das propostas de atualização da lista oficial das espécies da flora e da funga brasileiras ameaçadas de extinção;<br>
+    III - planejar, coordenar e supervisionar a elaboração e aplicação de métricas e índices de monitoramento do estado de conservação e do potencial de recuperação das espécies da flora e da funga brasileiras ameaçadas de extinção;<br>
+    IV - identificar, definir e mapear áreas prioritárias para conservação e realizar inventários florísticos com ênfase nas espécies ameaçadas de extinção nas áreas prioritárias para a conservação das espécies da flora e da funga brasileiras;<br>
+    V - elaborar, aprovar, implementar, monitorar e avaliar planos de ação orientados para a conservação e a recuperação das espécies da flora e da funga brasileiras ameaçadas de extinção;<br>
+    VI - apoiar ações de restauração de ecossistema e contribuir para a seleção e o uso das espécies ameaçadas de extinção, com vistas à sua recuperação;<br>
+    VII - promover, implementar e coordenar as ações de conservação in situ necessárias à recuperação das espécies da flora e da funga brasileiras ameaçadas de extinção; e<br>
+    VIII - estabelecer e manter a governança do sistema de dados para avaliações de risco de extinção e planejamento de conservação das espécies da flora e da funga brasileiras.
+</span>
+
+:::
 
 ## A nova página do CNCFlora
 

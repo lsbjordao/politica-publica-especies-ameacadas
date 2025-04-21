@@ -24,8 +24,7 @@ Compete ao MMA supervisionar a implementação do PRONABIO (art. 4º), que será
 
 ## Decreto nº 4.703/2003, art. 2º
 
-I - orientar a elaboração e a implementação da Política Nacional da Biodiversidade, com base nos princípios e diretrizes instituídos pelo Decreto nº 4.339, de 22 de agosto de 2002, mediante a promoção de parceria com a sociedade civil para o conhecimento e a conservação da diversidade biológica, a utilização sustentável de seus componentes e a repartição justa e eqüitativa dos benefícios derivados de sua utilização, de acordo com os princípios e diretrizes da Convenção sobre Diversidade Biológica, da Agenda 21,
-da Agenda 21 brasileira e da Política Nacional do Meio Ambiente;
+I - orientar a elaboração e a implementação da Política Nacional da Biodiversidade, com base nos princípios e diretrizes instituídos pelo **Decreto Federal nº 4.339**, de 22 de agosto de 2002, mediante a promoção de parceria com a sociedade civil para o conhecimento e a conservação da diversidade biológica, a utilização sustentável de seus componentes e a repartição justa e eqüitativa dos benefícios derivados de sua utilização, de acordo com os princípios e diretrizes da **Convenção sobre Diversidade Biológica**, da **Agenda 21**, da **Agenda 21 brasileira** e da **Política Nacional do Meio Ambiente**;
 
 II - promover a implementação dos compromissos assumidos pelo Brasil junto à Convenção sobre Diversidade Biológica e orientar a elaboração e apresentação de relatórios nacionais perante esta Convenção;
 
@@ -39,9 +38,11 @@ V - estimular a cooperação interinstitucional e internacional, inclusive por m
 
 ## CONABIO
 
+A [Portaria MMA nº 394/21](https://www.in.gov.br/en/web/dou/-/portaria-mma-n-394-de-17-de-agosto-de-2021-338982484) aprova o Regimento Interno da CONABIO.
+
 ::: {.callout-note}
 
-## A Portaria MMA nº 394, de 17 de agosto de 2021 aprova o Regimento Interno da CONABIO.
+## Portaria MMA nº 394
 
 Art. 1º A Comissão Nacional de Biodiversidade é instância colegiada de caráter consultivo, cuja finalidade é coordenar, acompanhar e avaliar as ações do Programa Nacional de Diversidade Biológica PRONABIO, conforme expressa o Decreto nº 4.703, de 21 de maio de 2003 e demais alterações, competindo-lhe o seguinte:
 

@@ -1,11 +1,11 @@
 # Revisão das Listas Nacionais Oficiais de Espécies Ameaçadas de Extinção
 
-## Portaria MMA nº 162/16
+Os procedimentos para revisão das Listas Nacionais Oficiais de Espécies Ameaçadas de Extinção com apreciação da CONABIO (Comissão Nacional da Biodiversidade) veio sendo normatizada desde 2016 pela **Portaria MMA nº 162/16** (@sec-portaria162), atualmente **revogada** pela **Portaria GM/MMA nº 299/22**, de 2022 (@sec-port299).
 
-Estabelece os procedimentos para revisão, elaboração e publicação das Listas Nacionais Oficiais de Espécies Ameaçadas de Extinção, previstas no Pró-Espécies, estabelecido pela Portaria MMA nº 43/14 (art. 1º).
+## Portaria MMA nº 162/16 {#sec-portaria162}
+
+A [Portaria MMA nº 162/16](https://www.icmbio.gov.br/cepsul/images/stories/legislacao/Portaria/2016/p_mma_162_2016_procedimentos_elaboracao_listas_oficiais_especiesameacadas.pdf) estabeleceu os procedimentos para revisão, elaboração e publicação das **Listas Nacionais Oficiais de Espécies Ameaçadas de Extinção**, previstas no Pró-Espécies, conforme pela Portaria MMA nº 43/14 (art. 1º).
+
+Assim como as avaliações devem ser fundamentadas por **laudos e estudos técnico-científicos** (Lei Complementar nº 140/11, Art. 7º, XVI), a revisão da lista também requer a realização de estudos e análises específicas, podendo ser requisitado estudos complementares, solicitados pelo MMA, quando da apreciação pela CONABIO (Portaria MMA nº 162/16, Art. 2º, III).
 
 <iframe src="PortariaMMA162.html" width="100%" height="600px"></iframe>
-
-Resumo:
-
-<iframe src="PortariaMMA162-resumo.html" width="100%" height="600px"></iframe>

@@ -1,7 +1,6 @@
 # Política Nacional da Biodiversidade
 
-A Política Nacional da Biodiversidade (PNB) é instituída pelo Decreto Federal nº 4.339/02. Segundo este Decreto, a PNB abrange eixos temáticos (Componentes). No que diz respeito a espécies ameaçadas de extinção, os Componentes 1 e 2 possuem objetivos
-específicos explicitamente relacionados.
+A Política Nacional da Biodiversidade (PNB) é instituída pelo Decreto Federal nº 4.339/02. Segundo este Decreto, a PNB abrange eixos temáticos (Componentes). No que diz respeito a **espécies ameaçadas** de extinção, os Componentes 1, 2, 4 e 6 possuem objetivos específicos explicitamente relacionados.
 
 ## Decreto Federal nº 4.339/2002
 
@@ -15,7 +14,7 @@ específicos explicitamente relacionados.
 
 :::
 
-Componente 1 - Conhecimento da Biodiversidade:
+**Componente 1 - Conhecimento da Biodiversidade:**
 
 ::: {.callout-note icon=false}
 
@@ -27,14 +26,76 @@ Componente 1 - Conhecimento da Biodiversidade:
 
 :::
 
-Componente 2 - Conservação da Biodiversidade:
+**Componente 2 - Conservação da Biodiversidade:**
 
 ::: {.callout-note icon=false}
 
 ## PNB
 
-11.3.1. Criar, identificar e estabelecer iniciativas, programas e projetos de conservação e recuperação de espécies ameaçadas, endêmicas ou insuficientemente conhecidas.
+11.2.10 Conservar amostras representativas e suficientes da totalidade da biodiversidade, do patrimônio genético nacional (inclusive de espécies domesticadas), da diversidade de ecossistemas e da flora e fauna brasileira (inclusive de **espécies ameaçadas**), como reserva estratégica para usufruto futuro.
 
-11.3.6. Implementar ações para maior proteção de espécies ameaçadas dentro e fora de unidades de conservação.
+11.3.1. Criar, identificar e estabelecer iniciativas, programas e projetos de conservação e recuperação de **espécies ameaçadas**, endêmicas ou insuficientemente conhecidas.
+
+11.3.2 Identificar áreas para criação de novas unidades de conservação, baseando-se nas necessidades das **espécies ameaçadas**.
+
+11.3.3 Fortalecer e disseminar mecanismos de incentivo para empresas privadas e comunidades que desenvolvem projetos de conservação de **espécies ameaçadas**.
+
+11.3.6. Implementar ações para maior proteção de **espécies ameaçadas** dentro e fora de unidades de conservação.
+
+11.3.8 Estabelecer mecanismos para tornar obrigatória a inclusão, em parte ou no todo, de ambientes especiais que apresentam alto grau de endemismo ou contenham **espécies ameaçadas** nas Zonas Intangíveis das Unidades de Conservação de Uso Sustentável.
+
+11.3.9 Estabelecer medidas de proteção das **espécies ameaçadas** nas terras indígenas e nas terras de quilombolas.
+
+11.4.1 Desenvolver estudos para a conservação ex situ de espécies, com ênfase nas **espécies ameaçadas** e nas espécies com potencial de uso econômico.
+
+11.4.4 Integrar iniciativas, planos e programas de conservação ex situ de espécies, com ênfase nas **espécies ameaçadas** e nas espécies com potencial de uso econômico.
+
+11.4.5 Promover a conservação ex situ visando à obtenção de matrizes animais e vegetais, inclusive microrganismos, de **espécies ameaçadas** ou com potencial de uso econômico para formação de coleções vivas representativas.
+
+11.4.9 Criar centros e promover iniciativas para a reprodução de **espécies ameaçadas**, utilizando técnicas como inseminação artificial, fertilização in vitro, entre outras.
+
+11.4.13 Criar e manter bancos de germoplasma regionais e coleções de base para a conservação da variabilidade genética, promovendo principalmente a conservação de espécies nativas sub-representadas em coleções, variedades locais, parentes silvestres, **espécies raras, endêmicas, ameaçadas** ou com potencial econômico.
+
+11.4.14 Estabelecer iniciativas de coleta, reintrodução e intercâmbio de espécies nativas de importância socioeconômica, incluindo variedades locais de espécies domesticadas e de **espécies ameaçadas**, para manutenção de sua variabilidade genética.
+
+:::
+
+**Componente 4 - Monitoramento, Avaliação, Prevenção e Mitigação de Impactos sobre a Biodiversidade:**
+
+::: {.callout-note icon=false}
+
+## PNB
+
+13.1.2 Implantar e fortalecer sistema de indicadores para monitoramento permanente da biodiversidade, especialmente de **espécies ameaçadas** e nas unidades de conservação, terras indígenas, terras de quilombolas, áreas de manejo de recursos biológicos, reservas legais e nas áreas indicadas como prioritárias para conservação.
+
+13.3.1 Promover estudos e programas adaptados para conservação e recuperação de **espécies ameaçadas** ou sobreexplotadas e de ecossistemas sob pressão antrópica, de acordo com o Princípio do Poluidor-Pagador.
+
+13.3.6 Identificar e apoiar iniciativas, programas, tecnologias e projetos de obtenção de germoplasma, reintrodução e translocação de **espécies nativas, especialmente as ameaçadas**, observando estudos e indicações referentes à sanidade dos ecossistemas.
+
+:::
+
+**Componente 6 - Sensibilização pública. Realização de programas e campanhas de sensibilização sobre a biodiversidade:**
+
+::: {.callout-note icon=false}
+
+## PNB
+
+15.2.4 Criar novos estímulos, tais como prêmios e concursos, que promovam o envolvimento das populações na defesa das **espécies ameaçadas** e dos biomas submetidos a pressão antrópica, levando-se em consideração as especificidades regionais.
+
+:::
+
+---
+
+:::{.callout-tip collapse="true"}
+
+## Para refletir sobre o futuro...
+
+A preservação das espécies ameaçadas de extinção é um dever do Estado, mas também um compromisso coletivo que ultrapassa os limites das normas legais — exige o engajamento ativo da sociedade e a corresponsabilidade de cada cidadão.
+
+Embora políticas públicas como a Política Nacional da Biodiversidade ofereçam diretrizes claras, sua efetiva implementação enfrenta obstáculos estruturais, institucionais e culturais.
+
+Ainda assim, há caminhos possíveis para enfrentar a perda de espécies ameaçadas: o fortalecimento da ciência, a educação ambiental crítica, o envolvimento das comunidades locais, a valorização de saberes tradicionais e a integração da conservação da biodiversidade em diferentes políticas públicas. Esses esforços, articulados de forma intersetorial e apoiados por dados confiáveis, podem transformar diagnósticos em ação e reverter, ao menos em parte, o avanço da extinção.
+
+Em meio às incertezas e esperanças, cabe uma reflexão profunda: conseguiremos, enquanto biólogos e cientistas, mobilizar a sociedade com dados sólidos, evidências confiáveis e uma narrativa consistente sobre os riscos de não mudarmos a direção em que estamos indo — e, assim, frear a perda de biodiversidade e a extinção de espécies?
 
 :::

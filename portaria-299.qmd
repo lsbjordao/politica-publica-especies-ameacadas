@@ -1,0 +1,131 @@
+# Programa CONSERVA+ {#sec-port299}
+
+A [Portaria GM/MMA nº 299/22](https://www.in.gov.br/en/web/dou/-/portaria-gm/mma-n-299-de-13-de-dezembro-de-2022-450409313) institui o **Programa Nacional de Conservação da Biodiversidade - CONSERVA+**, que estabelece as estratégias políticas de reconhecimento, avaliação e gestão das espécies nativas em relação ao uso sustentável e aos riscos e **ameaças de extinção**, com vistas a assegurar a proteção, a conservação e o manejo da diversidade biológica brasileira.
+
+## Procedimentos administrativos para avaliação do risco de extinção e atualização da Lista Oficias
+
+Esta Portaria disciplina os procedimentos administrativos para a avaliação do risco de extinção e para a proposição de atualização da Lista Oficial Nacional de Espécies Ameaçadas de Extinção, revogando as Portarias MMA nº 43/2014 (@sec-port43) e nº 162/2016 (@sec-portaria162). Delegando expressamente ao JBRJ a responsabilidade pela flora e ao ICMBio pela fauna (Art. 7º, VI), a norma atualiza os procedimentos no âmbito da CONABIO (Comissão Nacional da Biodiversidade).
+
+## Novos instrumentos do Programa
+
+:::{.callout-note}
+
+## Portaria GM/MMA nº 299/22
+
+Art. 4º São instrumentos do Programa CONSERVA+:
+
+<span style="display: block; margin-left: 30px;">
+    I - **Lista Nacional de Espécies Ameaçadas de Extinção**: responsável por reconhecer o rol de espécies da flora e da fauna distribuídas nos diversos biomas do território nacional, quanto ao seu risco de extinção em função de seus respectivos graus de ameaça, especificamente categorizadas como Vulnerável (VU), Em Perigo (EN) e Criticamente em Perigo (CR);<br>
+    II - **Comissão Nacional de Biodiversidade (CONABIO)**: instância colegiada de caráter consultivo, presidida pelo Ministério do Meio Ambiente, cuja finalidade é coordenar, acompanhar e avaliar as ações do Programa Nacional de Diversidade Biológica - PRONABIO, em especial a execução da Política Nacional da Biodiversidade e a implementação dos compromissos assumidos pelo Brasil junto à Convenção sobre Diversidade Biológica, entre outras competências definidas pela legislação vigente;<br>
+    III - **Plano de Ação Nacional para Conservação de Espécies Ameaçadas de Extinção (PAN)**: instrumento responsável por orientar e fomentar a implementação de ações voltadas à melhoria do estado de conservação de espécies consideradas ameaçadas de extinção e de seus ambientes naturais de ocorrência;<br>
+    IV - **Plano de Recuperação de Populações de Espécies Ameaçadas (REPOP)**: instrumento responsável por regulamentar, autorizar, gerenciar e assegurar a conservação e a sustentabilidade do manejo e do uso socioeconômico de determinadas populações de espécies consideradas ameaçadas de extinção, especialmente aquelas classificadas como Vulneráveis (VU), por meio de medidas, critérios e regras de ordenamento eficientes e capazes de garantir e induzir a recuperação e a resiliência de populações-alvo a limiares ecológicos menos preocupantes quanto a ameaças e riscos de extinção;<br>
+    V - **Plano de Reintrodução de Espécies da Flora - REFLORA ou Plano de Reintrodução de Espécies da Fauna - REFAUNA)**: responsável por estabelecer diretrizes e protocolos ambientalmente seguros para ações de manejo de espécimes (matrizes, indivíduos ou propágulos) voltadas a espécies da flora ou da fauna, principalmente aquelas consideradas ameaçadas ou extintas local ou regionalmente, visando sua realocação ou reintrodução in situ em áreas habilitadas a ações dessa natureza, para fins de recuperação de áreas degradadas, reconexão ou enriquecimento de populações isoladas ou depauperadas, reintrodução de espécies extintas, bem como para restaurar e reequilibrar relações ecológicas das espécies-alvo com seus ecossistemas de origem;<br>
+    VI - **Plano de Uso de Espécies Silvestres - PLUS**: responsável por definir e estabelecer diretrizes e protocolos técnicos para possibilitar ações e atividades de manejo in situ para espécies nativas não consideradas ameaçadas de extinção e aptas a inciativas dessa natureza em áreas delimitadas, a partir do reconhecimento e valorização de peculiaridades ecológicas e regionais de populações-alvo específicas e que permitam assegurar sua conservação e regulamentar a exploração sustentável de suas potencialidades socioeconômicas;<br>
+    VII - **Plano de Redução de Impactos sobre a Biodiversidade - PRIM**: responsável por identificar ameaças à conservação da biodiversidade decorrentes de determinadas tipologias de empreendimentos e atividades socioeconômicas, buscando gerar cenários voltados ao planejamento e à implementação de soluções compatíveis e aplicáveis para subsidiar a gestão pública no desenvolvimento de meios e medidas práticas para redução de conflitos e impactos relacionados;<br>
+    VIII - **unidades de manejo da fauna silvestre**: estruturas responsáveis por possibilitar a execução de ações de uso, manejo e conservação de espécies da fauna, de acordo com as categorias regulamentadas pela autoridade ambiental competente, tais como: [...]
+</span>
+
+:::
+
+## Inclui a categoria `Regionalmente Extinta - RE`
+
+`Regionalmente Extinta - RE`: quando não restam dúvidas técnicas de que o último indivíduo potencialmente capaz de se reproduzir na região avaliada tenha morrido ou desaparecido da natureza, em sua área de distribuição original na região/país em foco. No caso das avaliações do estado de conservação realizadas em nível nacional essa categoria se refere às espécies consideradas extintas no Brasil ou em algum de seus biomas, quando especificado;
+
+## Novas diretrizes e procedimentos para avaliação de espécies
+
+As novas diretrizes e procedimentos para avaliação de espécies estão estabelecidas nos artigos do 5º ao 7º.
+
+### Processo de avaliação do risco de extinção
+
+:::{.callout-note}
+
+## Portaria GM/MMA nº 299/22
+
+Art. 5º O processo de avaliação do estado de conservação das espécies quanto ao risco de extinção adota as seguintes diretrizes:
+
+<span style="display: block; margin-left: 30px;">
+    I - <b>avaliação de grupos taxonômicos como processo cíclico, regular e contínuo</b>, podendo ser iniciado a qualquer tempo, de ofício ou por demanda espontânea de quaisquer entes da sociedade, desde que motivada por evidências técnicas e científicas, sob responsabilidade do Ministério do Meio Ambiente e de suas entidades vinculadas;<br>
+    II - classificação das espécies avaliadas quanto ao seu estado de conservação, de acordo com critérios e categorias de risco de extinção desenvolvidos pelo <b>método da UICN</b>;<br>
+    III - <b>avaliação periódica do maior número possível de espécies da flora e da fauna nativas do Brasil, buscando reconhecer sua relevância ecológica, ambiental e socioeconômica em face dos conhecimentos técnicos e científicos acumulados sobre elas</b>;<br>
+    IV - avaliações deverão ocorrer ao <b>nível taxonômico de espécie</b>, podendo <b>excepcionalmente</b> serem realizadas ao nível de subespécie, ou variedade, no caso de plantas, quando justificadas tecnicamente;<br>
+    V - avaliações deverão considerar toda a <b>distribuição geográfica original</b> das espécies-alvo em território nacional e, para aquelas cuja área de ocorrência natural envolva mais de um dos biomas e ecossistemas nacionais legalmente reconhecidos, descritos no Art. 3º , sua avaliação e categorização, sempre que possível, deverão priorizar a regionalização das populações conhecidas da espécie-alvo circunscritas ao recorte geográfico de cada bioma separadamente. No caso das espécies de peixes e organismos aquáticos continentais, esforços deverão ser aplicados, quando possível, para a avaliação e categorização de cada população conhecida das espécies-alvo em relação às grandes regiões hidrográficas brasileiras estabelecidas pela Divisão hidrográfica nacional;<br>
+    VI - organização do processo de avaliação a partir do estabelecimento de <b>redes de especialistas em colaboração</b> com instituições e sociedades científicas, organizações não governamentais, pesquisadores, técnicos capacitados e outras reconhecidas fontes de conhecimento e de informações, incluindo sistemas e bancos de dados especializados, públicos ou privados, passíveis de validação técnico-científica, em especial informações contidas em sistemas nacionais de gestão, produção e controle de fauna e flora e demais plataformas associadas, de forma a garantir que as avaliações estejam baseadas no melhor nível de conhecimento sobre as espécies e no maior número de dados válidos disponíveis; e<br>
+    VII - <b>recrutamento, qualificação e capacitação contínua de gestores, equipes técnicas e de membros da rede de especialistas comprometidos com o processo</b>, buscando assegurar eficiência à condução das etapas, aos procedimentos e prazos estabelecidos, bem como aos resultados concretos necessários e esperados.<br><br>
+    §1º Espécies e grupos taxonômicos serão categorizados por meio de ciclos periódicos de avaliação quanto aos riscos de extinção, em intervalos de <b>até 10 anos</b>.<br>
+    §2º Espécies que não obtiverem seus respectivos processos de avaliação concluídos dentro do prazo definido pelo parágrafo anterior, <b>permanecerão classificadas na mesma categoria da última avaliação vigente</b> até que nova avaliação seja concluída e publicada.<br>
+    §3º Espécies que eventualmente vierem a permanecer sem avaliação por período superior ao de dois ciclos completos de avaliação (20 anos), deverão ter sua recategorização para Dados Insuficientes - DD e sua avaliação imediatamente priorizada com a brevidade possível.<br>
+    §4º Espécies das categorias Extinta - EX, Regionalmente Extinta - RE e Extinta na Natureza - EW que comprovadamente vierem a ser reencontradas na natureza deverão ser <b>imediatamente submetidas a novo processo de avaliação</b> para serem recategorizadas.
+</span>
+
+:::
+
+### Critérios técnico-científicos das avaliações de risco
+
+:::{.callout-note}
+
+## Portaria GM/MMA nº 299/22
+
+Art. 6º As avaliações do estado de conservação das espécies adotam critérios técnico-científicos objetivos relacionados aos riscos de extinção descritos no Art. 3º desta Portaria, em conformidade com os seguintes aspectos:
+
+<span style="display: block; margin-left: 30px;">
+    I - <b>tamanho da população</b> e <b>informações</b> históricas sobre dimensionamento, tendências e flutuações <b>populacionais</b> das espécies avaliadas (mensurações ou projeções);<br>
+    II - <b>extensão</b> da distribuição geográfica original e atual, <b>áreas de ocupação</b> original e atual e informações sobre a integridade e a incorporação de habitats, ambientes e corredores decorrentes de processos adaptativos em relação ao dimensionamento, tendências, flutuações e plasticidade comportamental das populações da espécie avaliada;<br>
+    III - dimensionamento de ameaças com potencial de afetar populações naturais e habitats utilizados pela espécie avaliada; e<br>
+    IV - abrangência e eficácia de iniciativas e Planos de Conservação implementados, sobretudo pelos resultados atingidos.
+</span>
+
+:::
+
+### Procedimentos para avaliação
+
+:::{.callout-note}
+
+## Portaria GM/MMA nº 299/22
+
+Art. 7º Os procedimentos para as avaliações do estado de conservação das espécies incluem as seguintes etapas:
+
+<span style="display: block; margin-left: 30px;">
+    I - <b>sistematização da informação</b>: base de dados organizada e registros individualizados e georreferenciados por espécie, de acordo com a origem e a política de dados comum aos sistemas envolvidos;<br>
+    II - <b>consultas participativas amplas e contínuas</b>: processo de busca, coleta e armazenamento de dados sobre espécies nativas acessíveis e abertos ao aporte de informações técnico- científicas, inclusive de bases de dados oficiais e de setores colaboradores da sociedade brasileira, conforme política de dados estabelecida;<br>
+    III - <b>avaliação do estado de conservação</b>: organização, processamento e validação dos dados obtidos para produção e atualização das fichas de avaliação das espécies quanto ao risco de extinção, seguindo o método, os procedimentos e os prazos estabelecidos;<br>
+    IV - <b>verificação</b>: análise objetiva realizada por verificadores sobre a coerência entre a categoria indicada pela avaliação de especialistas e as informações registradas de cada espécie, para propor (ou não) ajustes na categorização proposta, dentro de procedimentos e prazos estabelecidos;<br>
+    V - <b>relatório de avaliação técnica das espécies</b>: Resultado das avaliações de espécies realizadas a cada ano, organizado em fichas específicas, contendo as informações que subsidiaram o processo, incluindo mapas atualizados de distribuição da espécie por biomas ou divisão hidrográfica, sempre que possível; e<br>
+    VI - <b>proposta de atualização da Lista Nacional de Espécies Ameaçadas de Extinção</b>: Relatório da avaliação de espécies realizada no período, produzido pelos respectivos órgãos responsáveis pela avaliação da flora (JBRJ) e da fauna (Instituto Chico Mendes), enviado ao Ministério do Meio Ambiente até o dia 1º de março do respectivo ano, incluídas as respectivas fichas de avaliação das espécies, a ser submetida à apreciação intersetorial colegiada na CONABIO, conforme procedimentos definidos no Capítulo IV a seguir.<br><br>
+    §1º Os procedimentos para a avaliação de espécies serão transparentes e inclusivos, prezando pela divulgação do rol de especialistas, entidades parceiras, setores interessados e demais colaboradores envolvidos pelas entidades responsáveis.<br>
+    §2º A avaliação das espécies deverá considerar todas as <b>informações válidas disponíveis</b>, buscando valorizar e utilizar, sempre que possível, dados oficiais sobre aspectos regionais, socioeconômicos e ambientais oriundos das diversas esferas do poder público e dos vários setores da sociedade, inclusive para o desenvolvimento de Planos de Conservação e demais iniciativas relacionadas à conservação das espécies avaliadas.<br>
+    §3º As entidades responsáveis deverão aplicar esforços para que aquelas espécies da flora e da fauna com ocorrência geográfica em mais de um bioma brasileiro, ou em mais de uma bacia definida pela Divisão hidrográfica nacional tenham, sempre que possível, suas respectivas populações avaliadas e categorizadas separadamente em cada bioma ou bacia hidrográfica, conforme descrito no Art. 3º desta Portaria.
+</span>
+
+:::
+
+### Novas regras para atu Lista Nacional
+
+:::{.callout-note}
+
+## Portaria GM/MMA nº 299/22
+
+Art. 9º A Lista Nacional de Espécies Ameaçadas de Extinção será atualizada anualmente após decisão intersetorial colegiada exarada da CONABIO por ato do Ministério do Meio Ambiente.
+
+<span style="display: block; margin-left: 30px;">
+    §1º A Lista Nacional de Espécies Ameaçadas de Extinção incluirá o rol espécies avaliadas enquadradas nas categorias Vulnerável - VU, Em Perigo - EN e Criticamente em Perigo - CR.<br>
+    §2º O ato a que se refere o caput deverá reconhecer a Lista Nacional de Espécies Ameaçadas de Extinção e, quando houver, também a Lista de Espécies Extintas no Brasil, que inclui o rol daquelas espécies das categorias Regionalmente Extinta - RE e Extinta na Natureza - EW.<br>
+    §3º Todas as espécies categorizadas na Lista Nacional de Espécies Ameaçadas de Extinção <b>deverão indicar o ano da publicação de sua última avaliação</b> e, quando possível, a categorização de suas respectivas populações avaliadas por biomas ou bacias hidrográficas de ocorrência.<br>
+    §4º O ato administrativo do Ministério do Meio Ambiente que irá reconhecer a Lista Nacional de Espécies Ameaçadas de Extinção deverá estabelecer prazo de 120 dias corridos para o início de sua vigência a contar da data de sua publicação.
+</span>
+:::
+
+### Regime de Uso e Proteção das Espécies Ameaçadas
+
+O novo ato normativo não altera muito o regime de restrição e permissão quanto aos táxons listados nas Listas Oficiais, mas adiciona norma para regular os estoques oficialmente declarados ao IBAMA ou órgãos ambientais competentes:
+
+:::{.callout-note}
+
+## Portaria GM/MMA nº 299/22
+
+Art. 10. As espécies constantes na Lista Nacional de Espécies Ameaçadas de Extinção (VU, EN e CR) ficam protegidas de modo integral, sendo proibida a captura, coleta (extração ou corte), transporte, armazenamento, guarda, manejo, beneficiamento e comercialização, ressalvadas as seguintes condições:
+
+<span style="display: block; margin-left: 30px;">
+    §1º As restrições relativas a transporte, armazenamento, beneficiamento e comercialização de exemplares e produtos de espécies de uso econômico que passarão a compor a Lista Nacional de Espécies Ameaçadas de Extinção não se aplicam a saldos e estoques declarados nos sistemas de controle junto ao IBAMA ou a órgãos ambientais competentes até a data de início da vigência do ato administrativo que reconhecerá a Lista em questão.<br>
+    §2º Exemplares e produtos constantes de estoques oficialmente declarados, conforme o parágrafo anterior, poderão ser comercializados em até um ano após o início da vigência do referido ato administrativo.
+</span>
+:::
