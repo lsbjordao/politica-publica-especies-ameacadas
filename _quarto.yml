@@ -1,5 +1,6 @@
 project:
   type: book
+  output-dir: docs
 
 book:
   title: "Política Pública de Proteção das Espécies Ameaçadas"
@@ -17,6 +18,7 @@ book:
     - cncflora.qmd
     - cites.qmd
     - references.qmd
+  google-analytics: "G-FKBTWD2L4V"
 
 bibliography: references.bib
 
