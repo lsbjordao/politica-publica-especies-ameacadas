@@ -5,7 +5,7 @@ project:
 book:
   title: "Política Pública de Tutela e Proteção das Espécies Ameaçadas"
   author: "Lucas S.B. Jordão"
-  date: "23/03/2025"
+  date: "03/23/2025"
   chapters:
     - index.qmd
     - intro.qmd
