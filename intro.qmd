@@ -2,13 +2,13 @@
 
 ## A CF/88 e as espécies ameaçadas de extinção
 
-A previsão constitucional para proteção das espécies ameaçadas de extinção da flora brasileira fundamenta-se no inciso VII do § 1º do art. 225 da Constituição da República Federativa do Brasil de 1988 (CF/88), segundo o qual incumbe ao poder público “*<mark>proteger a fauna e a flora</mark>, vedadas, na forma da lei, as práticas que coloquem em risco sua função ecológica, <mark>provoquem a extinção de espécies</mark> ou submetam os animais a crueldade*”.
+A previsão constitucional para proteção das espécies ameaçadas de extinção da flora brasileira fundamenta-se no inciso VII do § 1º do art. 225 da Constituição da República Federativa do Brasil de 1988 (CF/88), segundo o qual incumbe ao poder público “*<b>proteger a fauna e a flora</b>, vedadas, na forma da lei, as práticas que coloquem em risco sua função ecológica, <b>provoquem a extinção de espécies</b> ou submetam os animais a crueldade*”.
 
 Desta forma, entende-se que a proteção das espécies ameaçadas de extinção é uma condição essencial e necessária para a manutenção do Meio Ambiente Ecologicamente Equilibrado (MAEE).
 
 ## Lei Complementar nº 140/2011 e as listas de espécies ameaçadas
 
-A LC 140/11 estabelece a <mark>elaboração da lista de espécies ameaçadas da flora</mark> como competência administrativa da União (art. 7º, inc. XVI) e dos Estados (art. 8º, inc. XVI).
+A LC 140/11 estabelece a <b>elaboração da lista de espécies ameaçadas da flora</b> como competência administrativa da União (art. 7º, inc. XVI) e dos Estados (art. 8º, inc. XVI).
 
 Outra norma importante é a necessidade de produção de dados direcionados à **avaliação de espécies quanto ao seu risco de entrarem em extinção**, tendo em vista a necessidade de **fundamentar as decisões mediante estudos e laudos técnicos** com base científica.
 
